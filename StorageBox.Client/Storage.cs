@@ -12,6 +12,7 @@ namespace StorageBox.Client
         {
 
         }
+
     }
 
     public class Storage
